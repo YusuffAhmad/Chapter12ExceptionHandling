@@ -1,0 +1,9 @@
+DirectoryNotFoundException
+
+EndOfStreamException
+
+FileNotFoundException
+
+FileLoadException
+
+PathTooLongException

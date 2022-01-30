@@ -1,0 +1,6 @@
+				WHEN THE STATEMENT TRY-FINALLY IS USED
+Generally try-finally is used to assure that some piece of code gets executed irrespective if the exception occurs or not. 
+ 				RELATIONSHIP BETWEEN THE STATEMENTS TRY-FINALLY AND USING
+	The using statement ensures that Dispose (or DisposeAsync) is called even if an exception occurs while you are calling methods on the object. 
+You can achieve the same result by putting the object inside a try block and then calling Dispose in a 
+finally block; in fact, this is how the using statement is translated by the compiler.

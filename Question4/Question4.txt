@@ -1,0 +1,24 @@
+									EXCEPTIONS AND EXCEPTION HANDLING
+	An EXCEPTIONS are a type of error that occurs during the run time of the program, that requires special processing. Examples include a user
+ providing abnormal input, a file system error being encountered when trying to read or write a file, or a program attempting to divide byzero e.t.c  
+Exceptions are created by using the throw keyword.	On the other hand EXCEPTION HANDLING is responding to exceptions when a computer program runs so that a program does not crash. 
+
+										WHEN THEY ARE USED AND 
+Exceptions should be USED for controlling flow of the program for situation where a certain method or function could not execute normally.The exception
+ is then passed to the caller who has the chance to either handle the exception or pass it on (chain-of-responsibility).
+											OR
+Exceptions should be used for exceptional situations outside of the normal logic of a program when the problem occurs in the middle of a complicated method that would 
+be made even more complicated if it also had to handle unexpected data. It might throw an exception in order to "give up" and go back to the 
+caller.
+					                                       HOW TO CATCH THEM	
+	To catch an exceptions we use try-catch, try-catch- finally or try and finnally blocks.
+	A try block is used by C# programmers to partition code that might be 
+affected by an exception.
+	 Associated catch blocks are used to handle any resulting exceptions. 
+	A finally block contains code that is run whether or not an exception is thrown in the try block, such as releasing resources that are allocated in the try block.
+ A try block requires one or more associated catch. A finally block enables you to clean up actions that are performed in a try block. If present, the 
+finally block executes last, after the try block and any matched catch block. A finally block always 
+runs, whether an exception is thrown or a catch block matching the exception type is found.
+
+
+

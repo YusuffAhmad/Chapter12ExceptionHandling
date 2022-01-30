@@ -1,0 +1,13 @@
+C:\Users\OLALEKAN\Desktop\MyFiles\Assignments\ExceptionHandling\Question7\bin\Debug\netcoreapp3.1\Question7.exe
+C:\Users\OLALEKAN\Desktop\MyFiles\Assignments\ExceptionHandling\Question7\bin\Debug\netcoreapp3.1\Question7.deps.json
+C:\Users\OLALEKAN\Desktop\MyFiles\Assignments\ExceptionHandling\Question7\bin\Debug\netcoreapp3.1\Question7.runtimeconfig.json
+C:\Users\OLALEKAN\Desktop\MyFiles\Assignments\ExceptionHandling\Question7\bin\Debug\netcoreapp3.1\Question7.runtimeconfig.dev.json
+C:\Users\OLALEKAN\Desktop\MyFiles\Assignments\ExceptionHandling\Question7\bin\Debug\netcoreapp3.1\Question7.dll
+C:\Users\OLALEKAN\Desktop\MyFiles\Assignments\ExceptionHandling\Question7\bin\Debug\netcoreapp3.1\Question7.pdb
+C:\Users\OLALEKAN\Desktop\MyFiles\Assignments\ExceptionHandling\Question7\obj\Debug\netcoreapp3.1\Question7.csprojAssemblyReference.cache
+C:\Users\OLALEKAN\Desktop\MyFiles\Assignments\ExceptionHandling\Question7\obj\Debug\netcoreapp3.1\Question7.AssemblyInfoInputs.cache
+C:\Users\OLALEKAN\Desktop\MyFiles\Assignments\ExceptionHandling\Question7\obj\Debug\netcoreapp3.1\Question7.AssemblyInfo.cs
+C:\Users\OLALEKAN\Desktop\MyFiles\Assignments\ExceptionHandling\Question7\obj\Debug\netcoreapp3.1\Question7.csproj.CoreCompileInputs.cache
+C:\Users\OLALEKAN\Desktop\MyFiles\Assignments\ExceptionHandling\Question7\obj\Debug\netcoreapp3.1\Question7.dll
+C:\Users\OLALEKAN\Desktop\MyFiles\Assignments\ExceptionHandling\Question7\obj\Debug\netcoreapp3.1\Question7.pdb
+C:\Users\OLALEKAN\Desktop\MyFiles\Assignments\ExceptionHandling\Question7\obj\Debug\netcoreapp3.1\Question7.genruntimeconfig.cache

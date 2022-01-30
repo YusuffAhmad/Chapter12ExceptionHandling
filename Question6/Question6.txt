@@ -1,0 +1,6 @@
+ 							Advantages when using exceptions
+Exceptions allow you to control the flow of your program					
+Exceptions enable you to write the main flow of your code and to deal with the exceptional cases elsewhere.
+Exceptions makes our code a user friendly one
+It gives room for communications with the user throw the error messages
+it also gives room for grouping and differentiating error types
